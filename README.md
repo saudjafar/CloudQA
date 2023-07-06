@@ -26,12 +26,12 @@ The script uses Chrome WebDriver to interface with the Chrome browser. Follow th
 ### 3. Install Dependencies
 
 The script relies on the `selenium` package. Install it using the following command:
+    ```bash
+    pip install selenium
 
-```bash
-pip install selenium
 
-## Running the Script
 
+### 4. Running the Script
 1. Open a command-line interface or terminal.
 2. Navigate to the directory containing the Python script.
 3. Execute the script using the following command:
